@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+img {
+    height: 60px;
+    margin-bottom: 20px;
+}
+
+div {
+    margin-bottom: 10px;
+}
+
+label {
+    color: #60851A;
+}
+
+form p {
+    color: #60851A;
+    font-size: 10px;
+    margin: 20px 0;
+}
+
+button {
+    padding: 2px 10px;
+}
